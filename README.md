@@ -49,7 +49,7 @@ You need these tools/libraries installed:
 ## Run
 
 ```bash
-cd /home/oktay/lib-ods-os/apps/filemanager
+cd filemanager/
 ./run.sh
 ```
 
